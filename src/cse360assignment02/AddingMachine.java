@@ -1,10 +1,7 @@
 package cse360assignment02;
-
-
 public class AddingMachine {
     private int total;
     private String memory;
-
 
     public AddingMachine () {
         total = 0;  // not needed - included for clarity
